@@ -1,0 +1,13 @@
+mysqli
+
+usename = "root"
+password = ""
+mydatabase = "mydb"
+
+admin user = username admin ,password admin
+editor user = username king ,password 1234
+
+
+server used 
+https://www.apachefriends.org/download.html
+
